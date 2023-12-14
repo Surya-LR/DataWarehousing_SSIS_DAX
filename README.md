@@ -4,7 +4,7 @@ This project outlines a structured approach to handling data, covering both its 
 
 ## Data and full report
 
-The data is from the NorthWind added here as an Excel sheet *' Data_Warehouse_NorthWind'* and all the creation process is detailed in the attached pdf report *'DataWarehouse_SSIS_DAX'*
+The data is from the NorthWind added here as an Excel sheet *( Data_Warehouse_NorthWind)*. The Northwind data contains the sales data for a fictitious company called Northwind Traders, which imports and exports specialty foods from around the world. The process involved is detailed in the attached pdf report *(DataWarehouse_SSIS_DAX)*
 
 The task is split into two sections.
 
