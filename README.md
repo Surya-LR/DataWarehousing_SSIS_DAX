@@ -13,10 +13,41 @@ The task is split into two sections.
 
 ## List of Relationships
 
-Developed after identifying the tables and 
+Developed after identifying the tables and associated columns
   ![image](https://github.com/Surya-LR/DataWarehousing_SSIS_DAX/assets/77691667/05974bf9-f6e6-48e1-88ac-d7187389c635)
 
 ## Data Analysis
+Data Analysis in DAX includes:
 
-The Data analysis in DAX 
+- Max Retail Price
+- Average Age
+- days_since_opening
+- supermarket_size
+- Total Customers
+- store_street_number
+- age
+- customer_priority
+- house_number
+- Weekend
+- Low-Fat Quantity
+- Total Cost
+- Total Revenue
+- Profit
+- Product Brand Rank
+- MTD Profit
+- Last Month Profit
+- MoM Profit % Change
+
+## Additonal questions answered
+
+![image](https://github.com/Surya-LR/DataWarehousing_SSIS_DAX/assets/77691667/4a6cada5-3150-46f3-ab51-2133369f9a1b)
+
+
+## Sample pivot table 
+
+![image](https://github.com/Surya-LR/DataWarehousing_SSIS_DAX/assets/77691667/2b8aa196-5bb1-4ee0-a29f-cd3a49de2142)
+
+
+
+
 
